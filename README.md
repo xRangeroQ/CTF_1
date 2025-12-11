@@ -1,6 +1,6 @@
 # 🏴‍☠️ CTF_1
-## 🎯 Amaç: Bu repo, basit bir Capture The Flag (CTF) etkinliği için hazırlanmıştır. Katılımcılar farklı görevleri çözerek flag bulur ve puan kazanır.
-## 💡 Odak: Eğlenceli, öğretici ve temel güvenlik/analiz becerilerini geliştiren görevler.
+🎯 Amaç: Bu repo, basit bir Capture The Flag (CTF) etkinliği için hazırlanmıştır. Katılımcılar farklı görevleri çözerek flag bulur ve puan kazanır.
+💡 Odak: Eğlenceli, öğretici ve temel güvenlik/analiz becerilerini geliştiren görevler.
 
 
 ## 🔑 Flag Formatı
